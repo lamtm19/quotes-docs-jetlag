@@ -1,8 +1,13 @@
-Solutions de l'évaluation notée 2 du groupe [JetLag]
-Solutions de l'évaluation notée 2 du groupe [Jetlag] à l'aide de MkDocs.
+## Membres du groupe
 
-Membres du groupe
-initiateur : Sabri Kasri
+- `initiateur` : Sabri Kasri
+- `contributeur-1` : Lam Tham vo
+- `contributeur-2` : Hasham Hassan
+- `contributeur-3` : Tazio Giampicollo
 
-URLs des dépôts
-initiateur : https://github.com/efrei-git/quotes-docs-jetlag
+## URLs des dépôts
+
+- `initiateur` : https://github.com/efrei-git/quotes-docs-jetlag
+- `contributeur-1` : https://github.com/lamtm19/quotes-docs-jetlag
+- `contributeur-2` : https://github.com/hasham936/quotes-docs-jetlag
+- `contributeur-3` : https://github.com/Taziooo/quotes-docs-jetlag
